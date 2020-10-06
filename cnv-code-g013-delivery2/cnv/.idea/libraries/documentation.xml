@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="documentation">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/documentation" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonDynamoDB" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonDynamoDBDocumentAPI/quick-start" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonEC2SpotInstances-Advanced" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonEC2SpotInstances-GettingStarted" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonKinesis" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonKinesisFirehose" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonS3" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonS3TransferProgress" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonSimpleEmailService" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AmazonSimpleQueueService" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AwsCloudFormation" />
+      <root url="file://$PROJECT_DIR$/cnv-project/lib/aws-java-sdk-1.11.555/samples/AwsConsoleApp" />
+    </SOURCES>
+  </library>
+</component>

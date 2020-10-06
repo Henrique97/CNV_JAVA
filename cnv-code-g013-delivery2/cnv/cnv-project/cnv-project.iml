@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk/1.11.536/8585ae256658778e71b07c5a1bddfa5e7893fda/aws-java-sdk-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-textract/1.11.536/69a0f21b9f12fde209521e7727caa67c1cbc2864/aws-java-sdk-textract-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-textract/1.11.536/1a9c5997c7592e2ce2f33bf09c663dfe22f9fdf7/aws-java-sdk-textract-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-worklink/1.11.536/b396f8a075c303e7d1eb8e08cb4f813f2f8df41a/aws-java-sdk-worklink-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-worklink/1.11.536/daa71edbbf59ebfc324bd9ca576102cf4f7942d6/aws-java-sdk-worklink-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-backup/1.11.536/94698e795933db4255a305b5728ed628020cec0e/aws-java-sdk-backup-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-backup/1.11.536/d8a1b589aaef8f1e7a2b224c5ea536a063c982e/aws-java-sdk-backup-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-docdb/1.11.536/edd67dcaf06ba1c4ba63332445dd41cba3ebd1b9/aws-java-sdk-docdb-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-docdb/1.11.536/1c7a538685bd5224c369a7c58a6a540bf14f1819/aws-java-sdk-docdb-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-apigatewayv2/1.11.536/50c739c54b1e64b542e315d659bacdd661576efd/aws-java-sdk-apigatewayv2-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-apigatewayv2/1.11.536/17c91c2a52910fea53774b6e39e471152866d08e/aws-java-sdk-apigatewayv2-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-apigatewaymanagementapi/1.11.536/77f9c161f434f793d9da4348a28d443242aa343b/aws-java-sdk-apigatewaymanagementapi-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-apigatewaymanagementapi/1.11.536/a0a376121251641fa689308287f9608a50b9ff43/aws-java-sdk-apigatewaymanagementapi-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kafka/1.11.536/48c66b5f77ca5ab91dc670f3293744262e4fdf88/aws-java-sdk-kafka-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kafka/1.11.536/3bf1e26a08a3410f19c255781a461a636ce56ade/aws-java-sdk-kafka-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appmesh/1.11.536/1586f62c9ddc02ff9d1aa479d9f695f72baca0c4/aws-java-sdk-appmesh-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appmesh/1.11.536/79f0ac500483a65d125c11a097bff140c48422f1/aws-java-sdk-appmesh-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-licensemanager/1.11.536/b383641403e5e4f6321a500f16840ffefbf932cb/aws-java-sdk-licensemanager-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-licensemanager/1.11.536/b080a93398bf5a238041cd0f10ddaa57c80a5c67/aws-java-sdk-licensemanager-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-securityhub/1.11.536/4f8cddedb83762f45a6b451e1d7da2b2c0c1eeb9/aws-java-sdk-securityhub-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-securityhub/1.11.536/73faaf970a45498fd6fcda912f8a7082dc4c0849/aws-java-sdk-securityhub-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-fsx/1.11.536/4b63805288c18aad0ceae967d75f25937097772b/aws-java-sdk-fsx-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-fsx/1.11.536/407654a05800104c44186629842372a5b8e281f2/aws-java-sdk-fsx-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediaconnect/1.11.536/68187fffc0ba59748f7747f79be97443a2b62025/aws-java-sdk-mediaconnect-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediaconnect/1.11.536/31a4cc7a0b0074fb628d54c41fb158085cfba8c0/aws-java-sdk-mediaconnect-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kinesisanalyticsv2/1.11.536/23714a8c28982798016c0cf89bf5416fc7b31113/aws-java-sdk-kinesisanalyticsv2-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kinesisanalyticsv2/1.11.536/42227f48ef418fe203cb47e558faa26fc807ea0f/aws-java-sdk-kinesisanalyticsv2-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-comprehendmedical/1.11.536/cd5d96aa3ff91fd9eb6b994decb3d34229e4eea0/aws-java-sdk-comprehendmedical-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-comprehendmedical/1.11.536/a6f5e9c9d95447abfaed5cb051aefda9bff33bc7/aws-java-sdk-comprehendmedical-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-globalaccelerator/1.11.536/841763daca94d8a66bdd0a872fb4f606d8d79841/aws-java-sdk-globalaccelerator-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-globalaccelerator/1.11.536/990df387a17b000401903387e0602484911e3653/aws-java-sdk-globalaccelerator-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-transfer/1.11.536/3a55065d59c6ec843a7534906fe9d3e8aa44b523/aws-java-sdk-transfer-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-transfer/1.11.536/2ed4d31830f8e97bb02cd796e3a3945244e79892/aws-java-sdk-transfer-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-datasync/1.11.536/81f1fbf18ff99aa181ac1f7a0fe3809c5b737517/aws-java-sdk-datasync-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-datasync/1.11.536/6e650d3c57da759a9439326334469add1e97a9bd/aws-java-sdk-datasync-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-robomaker/1.11.536/53b2c2e9badf4ff91b05312034221bec5d40dce5/aws-java-sdk-robomaker-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-robomaker/1.11.536/c39c60f3737bfc23fa46861e9019f6fbc5476564/aws-java-sdk-robomaker-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-amplify/1.11.536/a73a8dadbc27d951c34cfd7fe51e4dc502586cf7/aws-java-sdk-amplify-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-amplify/1.11.536/2e0bf500398ba72922619d07b43b729d1201ac25/aws-java-sdk-amplify-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-quicksight/1.11.536/952d45614f7693ffe9738c5d4b8beaaf49a2e78c/aws-java-sdk-quicksight-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-quicksight/1.11.536/2b131a05a6b98fcadf1965caa112329d0419ba26/aws-java-sdk-quicksight-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-rdsdata/1.11.536/1b2a66695b303f1dc6d66412f1af183d84e12801/aws-java-sdk-rdsdata-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-rdsdata/1.11.536/b2639857c279f363489efb974155bb6fc18c138e/aws-java-sdk-rdsdata-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53resolver/1.11.536/26e81df96ab02e11930d020e7c70f6ba7548ed6e/aws-java-sdk-route53resolver-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53resolver/1.11.536/6c6e8e19232c5ab7a295aeae601060265e16d3df/aws-java-sdk-route53resolver-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ram/1.11.536/973488e8c5afdcffdd8ef1d73a725111f6c4ab5e/aws-java-sdk-ram-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ram/1.11.536/a5109629d272234e977724e2ca612d6bd5f75f84/aws-java-sdk-ram-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3control/1.11.536/a620e8cc7535e42ae963a30ca57f9b58ac202abf/aws-java-sdk-s3control-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3control/1.11.536/61e3bf2358f620e44263df43b6e8f2d0a041c015/aws-java-sdk-s3control-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpointsmsvoice/1.11.536/3d16a5f9b7d6751b94bde41f154a6e7c33306673/aws-java-sdk-pinpointsmsvoice-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpointsmsvoice/1.11.536/b5eb86cdc4a6f8bd2a703835993ffcf6e6bceb38/aws-java-sdk-pinpointsmsvoice-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpointemail/1.11.536/815b684b45c6b661392b3bf843fef0afe058093c/aws-java-sdk-pinpointemail-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpointemail/1.11.536/ad2b799a4c374d8a203c10a8247bad784f3b0f/aws-java-sdk-pinpointemail-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-chime/1.11.536/56303adaaea55522fa0add5eaaae8348eba2c51a/aws-java-sdk-chime-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-chime/1.11.536/93f6ee7e7d833cea068e323d155d71b548bccc92/aws-java-sdk-chime-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-signer/1.11.536/4de420c8b7725ae55f44ce6048d39695866eb2c7/aws-java-sdk-signer-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-signer/1.11.536/2f48df20afe32e397ef2ea1666c127f958305a02/aws-java-sdk-signer-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dlm/1.11.536/b4af55bbea5fcba60e0a8117479bffc586825d2/aws-java-sdk-dlm-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dlm/1.11.536/35f630075eb0f2e563f824425a69f04c1e3c753a/aws-java-sdk-dlm-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-macie/1.11.536/6c59850a15cadc22d466ba7fbe85257d906fdc86/aws-java-sdk-macie-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-macie/1.11.536/af4ce54d23e7887fb3e1e6088c0d04d36247b69b/aws-java-sdk-macie-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-eks/1.11.536/2528e80522800eb91cd21d9a502f7abb21be3781/aws-java-sdk-eks-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-eks/1.11.536/d89f21cee202c5c9a110629a193e3b0eaddc6786/aws-java-sdk-eks-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediatailor/1.11.536/cd6409ed702f182c71d54ebe3f1252b7b22cab98/aws-java-sdk-mediatailor-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediatailor/1.11.536/c7af6131a411e11d153c7b72ad9a48e73f699aa5/aws-java-sdk-mediatailor-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-neptune/1.11.536/6fc7364ac784e0ea4b6c9b4f47bd569020ae0a52/aws-java-sdk-neptune-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-neptune/1.11.536/565ec2e42b5930d93de7541795ac01d1cd1b6325/aws-java-sdk-neptune-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pi/1.11.536/16fe4e5efbe2d40f11eefa30797fcafab82bd390/aws-java-sdk-pi-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pi/1.11.536/f01a8e9942496be38906a696dd7bfef56b9619f3/aws-java-sdk-pi-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iot1clickprojects/1.11.536/3d23679e7e7cb7bd978b68be91d5adb87066a2cd/aws-java-sdk-iot1clickprojects-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iot1clickprojects/1.11.536/fe17fa9de5186f205ec985a3d0e891dd2f4a0918/aws-java-sdk-iot1clickprojects-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iot1clickdevices/1.11.536/d31c03540ebab14deec0b1dfe3df372ca64f7c54/aws-java-sdk-iot1clickdevices-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iot1clickdevices/1.11.536/d2677ce639efca8eedc15c83a85ee1e13d2d7787/aws-java-sdk-iot1clickdevices-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotanalytics/1.11.536/90b1c9d72cbab9fe40b027704dd6c4abd946edd4/aws-java-sdk-iotanalytics-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotanalytics/1.11.536/9c37dbed8ed8073f88615cbef16a04190aa4c51a/aws-java-sdk-iotanalytics-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-acmpca/1.11.536/e512be966a2947f02288e7ed861142a5df353943/aws-java-sdk-acmpca-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-acmpca/1.11.536/e6d15d279b81668a752713234f7b6f29ca086922/aws-java-sdk-acmpca-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-secretsmanager/1.11.536/2935b25e4432400c05f60b6afdb08dc733993cf2/aws-java-sdk-secretsmanager-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-secretsmanager/1.11.536/9879aea4d71e44fb9c5739275a0740a5609271f8/aws-java-sdk-secretsmanager-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-fms/1.11.536/a48250fcf5b600304f9a1306aa6c9b093a289c6d/aws-java-sdk-fms-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-fms/1.11.536/c824ab4d5a63e8a8c8bfbb667a1d1c3039b05e5b/aws-java-sdk-fms-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-connect/1.11.536/e65ca3bd4f20471e719d9108f1952d82eba7195d/aws-java-sdk-connect-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-connect/1.11.536/f297b5bfdb2e82dfd3553399b2e06f633154b5e7/aws-java-sdk-connect-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-transcribe/1.11.536/411c6ebd8a44ac543ea8ba7fd5927ed5145dcd97/aws-java-sdk-transcribe-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-transcribe/1.11.536/afad1a5fbb45b502fba43eb9b47cc240e1453366/aws-java-sdk-transcribe-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscalingplans/1.11.536/c8647a72dc7f1933eb0deb19415491d98a25b81/aws-java-sdk-autoscalingplans-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscalingplans/1.11.536/272e26bd2c948513c2ef15d83128366dd625f1a0/aws-java-sdk-autoscalingplans-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-workmail/1.11.536/89058164694c77424b4ad22323581eece973c544/aws-java-sdk-workmail-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-workmail/1.11.536/3d9629f553d2f059bb3040a86fd7499fa83e6d00/aws-java-sdk-workmail-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-servicediscovery/1.11.536/ddd1019fe073346f00d4caf407ae5bc2d0ab3f3f/aws-java-sdk-servicediscovery-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-servicediscovery/1.11.536/8f5af40a487d0227cf967b38c111c3eed85b31d8/aws-java-sdk-servicediscovery-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloud9/1.11.536/958f6702756926ac9674abc6c703b8de669ce5b1/aws-java-sdk-cloud9-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloud9/1.11.536/c3d1b7398b3c4c24b44bf1d4e00ddd630a4de0cf/aws-java-sdk-cloud9-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-serverlessapplicationrepository/1.11.536/aaa377b3b0281ede924e924d276cf59b861240b9/aws-java-sdk-serverlessapplicationrepository-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-serverlessapplicationrepository/1.11.536/4000b474293eacf767308a15bed2e7d8d4999ba4/aws-java-sdk-serverlessapplicationrepository-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-alexaforbusiness/1.11.536/1e363baaaca7815492c7cd836fe88895ad762859/aws-java-sdk-alexaforbusiness-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-alexaforbusiness/1.11.536/f92c2e4a8116a212b6411dc4d2c6ae203511080c/aws-java-sdk-alexaforbusiness-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-resourcegroups/1.11.536/273babe9fef03f18c011f2ee81c407dc99166428/aws-java-sdk-resourcegroups-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-resourcegroups/1.11.536/f2cb913242ec7fa6623644048bd9b5f7b31427c1/aws-java-sdk-resourcegroups-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-comprehend/1.11.536/6cfa577ee4db52a76b9cb3e06285ad5d63aa78ea/aws-java-sdk-comprehend-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-comprehend/1.11.536/4c1d00a49309124bc818dabee07c24acfea5f037/aws-java-sdk-comprehend-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-translate/1.11.536/13e512a7344b387728f79f243effb1bf027495fe/aws-java-sdk-translate-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-translate/1.11.536/a0738c2dcc349f471bbdebf74a28cb2d4b865828/aws-java-sdk-translate-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sagemaker/1.11.536/ff43d63609a2e501aa2832c5788eeb1cbad9f994/aws-java-sdk-sagemaker-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sagemaker/1.11.536/d9ed525b2bc6af019e6ea97800492a33b7323493/aws-java-sdk-sagemaker-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotjobsdataplane/1.11.536/b0a209b3758f8244daf4dd31ce842e285f17d62c/aws-java-sdk-iotjobsdataplane-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iotjobsdataplane/1.11.536/840ad241d03de4b375f7563eccc6c29a41ab6a9f/aws-java-sdk-iotjobsdataplane-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sagemakerruntime/1.11.536/3cd830dfeaa691f253c112be643353aecb1d854e/aws-java-sdk-sagemakerruntime-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sagemakerruntime/1.11.536/59c64150f8d35c807d33906e8b268ee54daae4c0/aws-java-sdk-sagemakerruntime-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kinesisvideo/1.11.536/d8a39f9072161529f87de628f5f141fc0b874801/aws-java-sdk-kinesisvideo-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kinesisvideo/1.11.536/b249312dfc13bd361d99eda1be1f82fbc6bb3d9f/aws-java-sdk-kinesisvideo-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appsync/1.11.536/bc2d8bde085fcbb51bd21c7900b8efe6a1f1a546/aws-java-sdk-appsync-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appsync/1.11.536/c4f4d87ed901866e40ac5ee84a0456f323b08d57/aws-java-sdk-appsync-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-guardduty/1.11.536/d078a02fdcf13674e97419d6f5fb47e4ab92d83/aws-java-sdk-guardduty-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-guardduty/1.11.536/9cf70deb7eca27cf72a05b389a62a1ceaeae20e0/aws-java-sdk-guardduty-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mq/1.11.536/be6f3999c7a71b4bdeeae147e919ddff2bb0c92c/aws-java-sdk-mq-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mq/1.11.536/dd270676e2a070548f2c0b68c549cf9bb7d2c06a/aws-java-sdk-mq-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediaconvert/1.11.536/6dc1f575a1a930be6cc0f16af536c7fbd530525e/aws-java-sdk-mediaconvert-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediaconvert/1.11.536/d8ea726ca46c0eb5858dd7f19cca9890544cd7eb/aws-java-sdk-mediaconvert-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediastore/1.11.536/89ee4e8d1a2db6035628cf2b93e88b16e7897a37/aws-java-sdk-mediastore-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediastore/1.11.536/6a633c34e939765645d7f6cbc68d64168b3f5873/aws-java-sdk-mediastore-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediastoredata/1.11.536/603ea9e6b02cd18f91c979409d8b8252dc98339e/aws-java-sdk-mediastoredata-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediastoredata/1.11.536/df2a6e42ebc8daaf4698f95148fc81aa9ffc5391/aws-java-sdk-mediastoredata-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-medialive/1.11.536/33dd95cc929501f754446524dc64e617e5804b3/aws-java-sdk-medialive-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-medialive/1.11.536/1589b36d2e9d6114868669a65373dfdae4be0d34/aws-java-sdk-medialive-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediapackage/1.11.536/b8d0a2ddd8732f0c44018f6b959335bad957009d/aws-java-sdk-mediapackage-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediapackage/1.11.536/ee5a180bdf08f363e181e96516b9a9df9320504f/aws-java-sdk-mediapackage-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-costexplorer/1.11.536/ae7574122c008de2282d63f35eaeaaa1f8d83c95/aws-java-sdk-costexplorer-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-costexplorer/1.11.536/53e186842ae28f4aec6a98f4075d8cd30deda5bd/aws-java-sdk-costexplorer-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pricing/1.11.536/fb7c47ab75f80352846c52f33341fa43563423ed/aws-java-sdk-pricing-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pricing/1.11.536/8f2a28d8519ce9428f5ce9380eb4de52624c25c4/aws-java-sdk-pricing-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mobile/1.11.536/fa458e960f009cf4054a165f459632fde6e9b6ee/aws-java-sdk-mobile-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mobile/1.11.536/72f7b72f518f80f53a1feedadd645e1a9e55da39/aws-java-sdk-mobile-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudhsmv2/1.11.536/870059e3c924629350d8f847cc78579c25815c26/aws-java-sdk-cloudhsmv2-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudhsmv2/1.11.536/522543236b2d7efe21cfb9e75c1c43164b3c0ba2/aws-java-sdk-cloudhsmv2-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-glue/1.11.536/d9abceda976913cfc5c2745e65d5a7371bed28f8/aws-java-sdk-glue-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-glue/1.11.536/b2da46cb978e3bc5deb364205dd20cd522cb1f9a/aws-java-sdk-glue-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-migrationhub/1.11.536/7f21db4c29d7a65a6e5856216fe3b0ba5a49030e/aws-java-sdk-migrationhub-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-migrationhub/1.11.536/88b1149209ceffe33e89a09a2b7bba1c5f9d21be/aws-java-sdk-migrationhub-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dax/1.11.536/591e6f7c6b5e7081a9a2a21fbe97b71455ae1306/aws-java-sdk-dax-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dax/1.11.536/9104d53ba53215267e429bf33d043a7334ab8cbc/aws-java-sdk-dax-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-greengrass/1.11.536/d4fe6232cdcbb52f37ea4c8ffc938b14c9b09033/aws-java-sdk-greengrass-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-greengrass/1.11.536/30f60c555df4e5f0a0443731bf530ac5cf3ed4b2/aws-java-sdk-greengrass-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-athena/1.11.536/4f87c1aac9278d2fdf4795e1f85cf9450bfb5d18/aws-java-sdk-athena-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-athena/1.11.536/2f7edce092c77e52ba6c6283be70b0d946c9d23/aws-java-sdk-athena-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplaceentitlement/1.11.536/7b3bcb3d5e50617f87fcbc0f8455facac1b15518/aws-java-sdk-marketplaceentitlement-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplaceentitlement/1.11.536/399aa49749362f4fd364bda82969a044689cd962/aws-java-sdk-marketplaceentitlement-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codestar/1.11.536/e75f2b96e92e0bdd66c20d6f2489fe9e46436ad2/aws-java-sdk-codestar-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codestar/1.11.536/6d1723b504d2acc05b7cbf51a447e38d9dcc8d6c/aws-java-sdk-codestar-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lexmodelbuilding/1.11.536/6ac330df31b741cee1438f4a85d63052dce5658b/aws-java-sdk-lexmodelbuilding-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lexmodelbuilding/1.11.536/ef3ec59736d953e0985b66bd074da4e41aba5084/aws-java-sdk-lexmodelbuilding-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-resourcegroupstaggingapi/1.11.536/9f5524229b79f3687ab174aad79b55682f4e70d7/aws-java-sdk-resourcegroupstaggingapi-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-resourcegroupstaggingapi/1.11.536/80ddaf74ee08172a33b51e069b18bc118e9a623c/aws-java-sdk-resourcegroupstaggingapi-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpoint/1.11.536/240bf3e2f8ab88d06838ceff971ea292df976c96/aws-java-sdk-pinpoint-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-pinpoint/1.11.536/8f6d2835d6722989dfc45512e0b0e75c08de8624/aws-java-sdk-pinpoint-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-xray/1.11.536/55566e5fbfd437e954c9cbe289e5f3e54e44248e/aws-java-sdk-xray-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-xray/1.11.536/59c091d4d2a340cc2d5ae23ba39d73755625baee/aws-java-sdk-xray-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-opsworkscm/1.11.536/129acf36722f3899c06f44c74b332a38f5523b14/aws-java-sdk-opsworkscm-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-opsworkscm/1.11.536/8cfb215bd445d66ac2964cfa468a0182ce758fef/aws-java-sdk-opsworkscm-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-support/1.11.536/5edb3f5324ef1edb8ea7f02656658b0d6fee2b51/aws-java-sdk-support-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-support/1.11.536/89628dee3d3dee1efc3a9d83a5d1207465c06569/aws-java-sdk-support-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-simpledb/1.11.536/3b74ce9f5872f88218781196384d7f045f237d7a/aws-java-sdk-simpledb-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-simpledb/1.11.536/bccc0819784f6d4bcfdae79f6d3243d2eab2abe9/aws-java-sdk-simpledb-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-servicecatalog/1.11.536/29f19fd808391f7579c8a16dc39361afcf3f34a/aws-java-sdk-servicecatalog-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-servicecatalog/1.11.536/b8d3c728f1463dc3b6ed625a6f18ce2b0ac0f113/aws-java-sdk-servicecatalog-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-servermigration/1.11.536/b968ff60cdfb373832660e47e0093429ce9d7be/aws-java-sdk-servermigration-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-servermigration/1.11.536/eff7a9a1595c04f326a1c8291a611bffe784a677/aws-java-sdk-servermigration-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-swf-libraries/1.11.22/4bb64607f756c0c1f427bdb491db05b48402694/aws-java-sdk-swf-libraries-1.11.22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-swf-libraries/1.11.22/bdc71c85859739d8a5938279322bc8317e79ed99/aws-java-sdk-swf-libraries-1.11.22-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-simpleworkflow/1.11.536/dd7c5b1eeb9a8cb293b270e658fe76914045974e/aws-java-sdk-simpleworkflow-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-simpleworkflow/1.11.536/68c4f99a4a2fbf18d05b2838a990d42604d10ce7/aws-java-sdk-simpleworkflow-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-storagegateway/1.11.536/2462ef774152d258a5c3ff5432a940c94efed05c/aws-java-sdk-storagegateway-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-storagegateway/1.11.536/20e8d348eb8206b3ab9e40d76596641397b490b7/aws-java-sdk-storagegateway-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53/1.11.536/e3a0d4d740a7d1a1165a6dbeb4326a9b0cdba0cd/aws-java-sdk-route53-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53/1.11.536/a084f3f795ca6adc3995fde4e119845dd126e903/aws-java-sdk-route53-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-glacier/1.11.536/ee27d09c65e7a4d62064ed36f29c2a0c8e5c9b56/aws-java-sdk-glacier-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-glacier/1.11.536/cfded7cb88c22c0c33636420259dcaca9768c014/aws-java-sdk-glacier-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudwatchmetrics/1.11.536/b799ebe86441df8776a920f158d934bb663e77f0/aws-java-sdk-cloudwatchmetrics-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudwatchmetrics/1.11.536/de4acc9a9edadd87b815cdeac6398e4470608d77/aws-java-sdk-cloudwatchmetrics-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dynamodb/1.11.536/1ee3b54661fcedaa60c46db4d9257b3c6ff19d45/aws-java-sdk-dynamodb-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dynamodb/1.11.536/57689874d35242f29bb53efd6aba00c7c402d388/aws-java-sdk-dynamodb-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.536/7997bb7ac8360a29250d1386691716c482765064/aws-java-sdk-s3-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.536/dc471dda72e2e1359e184282874f79ae6253204b/aws-java-sdk-s3-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-importexport/1.11.536/df9efbc3899651f877c62434f543f6ebdafe9e59/aws-java-sdk-importexport-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-importexport/1.11.536/c22ffabb91a05742e864e8886ab0c4192761f2f5/aws-java-sdk-importexport-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sts/1.11.536/243a8ea0ef879b55d644ec6c7392dd65d35e73ea/aws-java-sdk-sts-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sts/1.11.536/8159f46004798af9e4035eb9ddb3840244dac958/aws-java-sdk-sts-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sns/1.11.536/627ad2c2986c313415a3bc05f8ab5e4fff52e1fe/aws-java-sdk-sns-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sns/1.11.536/40af2f502ff67f2bc32df2c5c0efb80c2527271f/aws-java-sdk-sns-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sqs/1.11.536/93f38ff0ea9b20d1ec3150fe3a5cd005f935b552/aws-java-sdk-sqs-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sqs/1.11.536/be375c8690376026e33ff1312a091a3c3eab7525/aws-java-sdk-sqs-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-rds/1.11.536/2ece867079512b27c2071c26fca48b636dd7ed3/aws-java-sdk-rds-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-rds/1.11.536/96963e1bf2dbe07a70f48cce2ce71c26eb621d1/aws-java-sdk-rds-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-redshift/1.11.536/6c2904520def16ff252cd5481f4e1eedcefcb943/aws-java-sdk-redshift-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-redshift/1.11.536/f4ae39277084d676810a5c73c589ab1693da6284/aws-java-sdk-redshift-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticbeanstalk/1.11.536/a1b4b2fd63d1566c592f036ef3795eeab986be56/aws-java-sdk-elasticbeanstalk-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticbeanstalk/1.11.536/f09428343d9959c83da2b02c50078a3a12568cda/aws-java-sdk-elasticbeanstalk-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iam/1.11.536/8005caba3de99f8d2f711f56662484b17033478e/aws-java-sdk-iam-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iam/1.11.536/4d647d8a4fbd1162a03e415e6270868af94d9f47/aws-java-sdk-iam-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-datapipeline/1.11.536/f316f95d264c160cbd121cdeddb6748ed9cecd2f/aws-java-sdk-datapipeline-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-datapipeline/1.11.536/2b620a382ff696b935822f9d58cd07b1e2c376e5/aws-java-sdk-datapipeline-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticloadbalancing/1.11.536/512df5a8e1f144d154643c32c647d5f08d276083/aws-java-sdk-elasticloadbalancing-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticloadbalancing/1.11.536/2fd0ca428e028c305fac282c5e03761c5d7a9c7e/aws-java-sdk-elasticloadbalancing-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticloadbalancingv2/1.11.536/af1eb86d36159768769c952a79dce4827812cf6a/aws-java-sdk-elasticloadbalancingv2-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticloadbalancingv2/1.11.536/4587208e778d8ecbfc1649fe66905d81037d8b61/aws-java-sdk-elasticloadbalancingv2-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.536/a15c34ec6bfb206ee52aa7feb00e7e4d19605035/aws-java-sdk-emr-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-emr/1.11.536/5f7befe7a8ffff0fa9cc966a3cae0f34b9049e3d/aws-java-sdk-emr-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticache/1.11.536/a34fb2257f6e21290608cf137352c067841d2fc3/aws-java-sdk-elasticache-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticache/1.11.536/e96358f79ee5eff376ba7a21d92a69dd7141aa7f/aws-java-sdk-elasticache-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elastictranscoder/1.11.536/5a26e51f53714588cc80e334797abb07050428fb/aws-java-sdk-elastictranscoder-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elastictranscoder/1.11.536/8db46923226c2099ff3d23d19978bc84cd6a68c4/aws-java-sdk-elastictranscoder-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ec2/1.11.536/d8c1ed8a5b6a78dfa7100f6ed9dad36beb986111/aws-java-sdk-ec2-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ec2/1.11.536/b39b23ff5b4f151ba720b41b70fcd642ec2eb8ac/aws-java-sdk-ec2-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-budgets/1.11.536/a09a8219ce7ef05c34377fb7454d74df5922ea2d/aws-java-sdk-budgets-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-budgets/1.11.536/3b2f41d2c08473ee8e47e6dc6e181ee0514bd5d6/aws-java-sdk-budgets-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudtrail/1.11.536/9fbd64b3b53d6bf6a13776c288275c270b92a6d/aws-java-sdk-cloudtrail-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudtrail/1.11.536/91575b9bdb65d6478339f4433b0a36f544483894/aws-java-sdk-cloudtrail-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudwatch/1.11.536/eff8b606da73e45bf44e30af6d31ce1f6b46e2e8/aws-java-sdk-cloudwatch-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudwatch/1.11.536/7568a27c438fdf223e857718707ab25e8d7a7a57/aws-java-sdk-cloudwatch-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-logs/1.11.536/80a17792961ac792ff6fa13d66ef4ea2f65f2208/aws-java-sdk-logs-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-logs/1.11.536/d2c7b53530a18af387a67c345507d60dac46cd4d/aws-java-sdk-logs-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-events/1.11.536/7539da12cf658a25956b0d19c7d4ff5e358bd7f/aws-java-sdk-events-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-events/1.11.536/b2dd14b0529efc9321695a8e97c81067a171594e/aws-java-sdk-events-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitoidentity/1.11.536/6149c3d64ee36ef4250d079edc896760368c8c1c/aws-java-sdk-cognitoidentity-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitoidentity/1.11.536/231197acd4cd358cb33d9abb1690ba0f91886015/aws-java-sdk-cognitoidentity-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitosync/1.11.536/86285d0be6324de0bb92dd1f34d5e94fbd6d9038/aws-java-sdk-cognitosync-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitosync/1.11.536/4a714bf4cdab71c496077e178dc6def3f3a36c4d/aws-java-sdk-cognitosync-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-directconnect/1.11.536/ee644e1520799f6da52a438c4d3e37c7f154a180/aws-java-sdk-directconnect-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-directconnect/1.11.536/bd7507226f6af22ac44e9dc10931c7c0b4ad3893/aws-java-sdk-directconnect-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudformation/1.11.536/f87c84da007123023a8cf2f292bbe05be7e31772/aws-java-sdk-cloudformation-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudformation/1.11.536/852a076e60db4a22980229bdcbc0325aa80be378/aws-java-sdk-cloudformation-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudfront/1.11.536/9e6e43414ceb1008e64d6a1703c66065987dead6/aws-java-sdk-cloudfront-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudfront/1.11.536/4307c408e3ef7e301a8767c99b72faa9fcfc38b1/aws-java-sdk-cloudfront-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-clouddirectory/1.11.536/737a913dd2bd418425646e1b618753d90dbee096/aws-java-sdk-clouddirectory-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-clouddirectory/1.11.536/8ff3a73a5ef4d01d1e1af7792bfe47b7b7b9e287/aws-java-sdk-clouddirectory-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kinesis/1.11.536/14b39b905df88f330ce4c75b7f5b5ee65f2e3cd1/aws-java-sdk-kinesis-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kinesis/1.11.536/c9360913f27da43a7595d5bd0a770147cc569611/aws-java-sdk-kinesis-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-opsworks/1.11.536/b4da7b618a18bf9e80657d75b410cd11883baa03/aws-java-sdk-opsworks-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-opsworks/1.11.536/d25c70727ddb5265ca7a1f3d274bcba8d9fa517/aws-java-sdk-opsworks-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ses/1.11.536/8daf843225a51d9580ab7feea05da4d06ee1d11d/aws-java-sdk-ses-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ses/1.11.536/fcecc64a02d782dcd13ad9b9c4fe2fa266b1ed25/aws-java-sdk-ses-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscaling/1.11.536/4b3a5e9aeca2b32a76b6b85e82bebe441439be8b/aws-java-sdk-autoscaling-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscaling/1.11.536/db11bf6893463bc1a5152acd42f0c74c458ad876/aws-java-sdk-autoscaling-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudsearch/1.11.536/8ae538c6680a3eb18c243ce56056b48dfa6d3a2b/aws-java-sdk-cloudsearch-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudsearch/1.11.536/8b25e4b7eb14fa7bc60ef8f9e8e2dfc96147c0ee/aws-java-sdk-cloudsearch-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codedeploy/1.11.536/be2ec903ef725e58edaf307062e2666045a124e/aws-java-sdk-codedeploy-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codedeploy/1.11.536/e72f29ffc95d5ee6754ad10e5f8754529cf6840/aws-java-sdk-codedeploy-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codepipeline/1.11.536/e4b5c3ef80c9006875a52ab418ac454fde7c1936/aws-java-sdk-codepipeline-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codepipeline/1.11.536/1c41af726220ca2a9d05d799c596ecef40f8c090/aws-java-sdk-codepipeline-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kms/1.11.536/2c5126b316ecaa69a8db666f0427741747d3e21b/aws-java-sdk-kms-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kms/1.11.536/a51b1e0cad82856a3fd79ceb07d965028ba6951d/aws-java-sdk-kms-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-config/1.11.536/348e2a666c956f09aa8f01cc9d2f0c00947fcb37/aws-java-sdk-config-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-config/1.11.536/cffd89aa53aa65c5c24c68ff0e101309997dff27/aws-java-sdk-config-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lambda/1.11.536/3bbd76ce5f3fd7adba59d4403d1b4a34db8ace2c/aws-java-sdk-lambda-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lambda/1.11.536/2a90135305bbd5cbf4327a991d3002cd2325bfa/aws-java-sdk-lambda-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ecs/1.11.536/fa9a8d3caa3e9e330d8e8470496e76460446e869/aws-java-sdk-ecs-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ecs/1.11.536/75f5b847d0c35fa8358127acde3f363ca9b0f5c9/aws-java-sdk-ecs-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ecr/1.11.536/5501723e699e5ab45359a220951b4cae797b2d86/aws-java-sdk-ecr-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ecr/1.11.536/676674d1ef56cdef52a833b4e666a90309a74f77/aws-java-sdk-ecr-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudhsm/1.11.536/a8240b63d195706946f2e0b083fef8d95b78f9bb/aws-java-sdk-cloudhsm-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cloudhsm/1.11.536/ae77303772c97251400dcc00d28501d5b6fb4884/aws-java-sdk-cloudhsm-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ssm/1.11.536/8985198ecd39f628e6df0190faa06e78cb8a69ed/aws-java-sdk-ssm-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ssm/1.11.536/bdcda1d1ff47d7de96578abee84ceeb233ef18fb/aws-java-sdk-ssm-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-workspaces/1.11.536/70245ead35491ed5a2bca19d7bfea7ac466be7ac/aws-java-sdk-workspaces-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-workspaces/1.11.536/5f45b2d190743b78c617d29d0a76a6fd4722309d/aws-java-sdk-workspaces-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-machinelearning/1.11.536/d5b892a6f9efa2d38fff3c4d51c258f0f30fd911/aws-java-sdk-machinelearning-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-machinelearning/1.11.536/ecc37f72878ea6887488a0a2f783742110097759/aws-java-sdk-machinelearning-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-directory/1.11.536/121a09a9b802ce8db57f9f93540fa21d678ee814/aws-java-sdk-directory-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-directory/1.11.536/50a6a741b6c73c88ce478de7700530ebf97e7d9d/aws-java-sdk-directory-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-efs/1.11.536/8b5d8e233ed78929fc3736da674166f61f5e9ccb/aws-java-sdk-efs-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-efs/1.11.536/11e46182e16e5820c59b844c96110f35d7b78602/aws-java-sdk-efs-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codecommit/1.11.536/7a1ed249be346af57dd138774a994262729dfb8d/aws-java-sdk-codecommit-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codecommit/1.11.536/b6084f8ef631a69eecb51d9218e53d5b3ea2b29b/aws-java-sdk-codecommit-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-devicefarm/1.11.536/c4850454d8c2ee4daead3f0c8defc4a4cbe947cb/aws-java-sdk-devicefarm-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-devicefarm/1.11.536/923b4ef6336a43bf45032a1d486d5a4f5b926a50/aws-java-sdk-devicefarm-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticsearch/1.11.536/45d9c7970bcf5c77b22a71743233f8fced725d6c/aws-java-sdk-elasticsearch-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-elasticsearch/1.11.536/e3e68ae28ba8abc267bb72b7936b9520d4ce4b8d/aws-java-sdk-elasticsearch-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-waf/1.11.536/ed98f50d1cc237e6248c996ffd650d515f7a6b9e/aws-java-sdk-waf-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-waf/1.11.536/bf717aa95d1877534000087da1c91c8cc6e6ced9/aws-java-sdk-waf-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplacecommerceanalytics/1.11.536/a70c9a8e37a3072c2124ba8a12621bb98958e3d1/aws-java-sdk-marketplacecommerceanalytics-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplacecommerceanalytics/1.11.536/84f403e6bd623b44234447897e5e74a1e1a6080/aws-java-sdk-marketplacecommerceanalytics-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-inspector/1.11.536/4caff53ed2c9996e20eaaeb82a8ceb5b1c825c23/aws-java-sdk-inspector-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-inspector/1.11.536/1cc6f0a24b3fce512e9ce44c31163193f5227e2/aws-java-sdk-inspector-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iot/1.11.536/95ef013c6d7310e9e398b7a6e53fcbf70f7c44aa/aws-java-sdk-iot-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-iot/1.11.536/c093926e77c54bf382ab9d1fb3fbd3970144d4d5/aws-java-sdk-iot-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-api-gateway/1.11.536/989b2bbdf406a6d0a29ed989e5d4f4ec98425bc8/aws-java-sdk-api-gateway-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-api-gateway/1.11.536/1742b52962f42293d8b3ec3c5c9318204106dbb4/aws-java-sdk-api-gateway-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-acm/1.11.536/6f3428cf465d0d68b5f6fc6fb99d4bfbf7460705/aws-java-sdk-acm-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-acm/1.11.536/72535160f72789d06b3d16e1ab1b58a9fbf022c7/aws-java-sdk-acm-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-gamelift/1.11.536/bcd6cb68d638ce4081645642f4be8ab4924254d5/aws-java-sdk-gamelift-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-gamelift/1.11.536/853237ff43559275cac440380a56584fd69f0750/aws-java-sdk-gamelift-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dms/1.11.536/c1c03bebe7e3b6f182cf7df487bd36f361fab519/aws-java-sdk-dms-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dms/1.11.536/9715a6ae631f420ad73cc43c4e1b6faf0d26822b/aws-java-sdk-dms-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplacemeteringservice/1.11.536/397040004c344fdfb484c1782b5558b4a753a03c/aws-java-sdk-marketplacemeteringservice-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-marketplacemeteringservice/1.11.536/14cdc0171868d290cbe19ab34ef86a94ca4a0c03/aws-java-sdk-marketplacemeteringservice-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitoidp/1.11.536/d35a630c2e583e045d1d54d4e06a98b0f302b052/aws-java-sdk-cognitoidp-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitoidp/1.11.536/bd3da9392cc635c9c3c666e1016237624e438baa/aws-java-sdk-cognitoidp-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-discovery/1.11.536/a1b5b312b4f8013ca6bd311197dfdc87b981b3e6/aws-java-sdk-discovery-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-discovery/1.11.536/22b3bc30deae20127125c9acc445250f74ef28bb/aws-java-sdk-discovery-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-applicationautoscaling/1.11.536/9dfec0425f40cfe45fa136525f73ad2d58487327/aws-java-sdk-applicationautoscaling-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-applicationautoscaling/1.11.536/47bf0e67c67888ad41e7f628f3579bdbf2f421ba/aws-java-sdk-applicationautoscaling-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-snowball/1.11.536/84f399aff7eaf8e80735ba7f5e64251e8edbe8db/aws-java-sdk-snowball-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-snowball/1.11.536/423870db3b016fc23596831aba448faef59769cc/aws-java-sdk-snowball-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-rekognition/1.11.536/1aa3d895a5fe923c92b7992a798c20a9315905d9/aws-java-sdk-rekognition-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-rekognition/1.11.536/388d10a57436d24df2f032979c4eb7d7a38c8483/aws-java-sdk-rekognition-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-polly/1.11.536/7b5fb85240d8b6d5bd8efb86099ebdc3fdc74b07/aws-java-sdk-polly-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-polly/1.11.536/7ac15f2d6b09e47b60fe6b378418d840a2ab781b/aws-java-sdk-polly-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lightsail/1.11.536/8b4c20d066fe9559512411d33700c6ef02b7a069/aws-java-sdk-lightsail-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lightsail/1.11.536/5be07d2fc7cf0bb9314b2fcf534a6665742dc672/aws-java-sdk-lightsail-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-stepfunctions/1.11.536/88040009661536f9c743b6ad9212053fce10a12d/aws-java-sdk-stepfunctions-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-stepfunctions/1.11.536/bfce20236afa0189beebb741b811debac8666a1d/aws-java-sdk-stepfunctions-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-health/1.11.536/967835608df5004fed0a0c43bbf41585996def87/aws-java-sdk-health-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-health/1.11.536/25e39fbe2a39a6bdf535af3e5a616d9e826f279c/aws-java-sdk-health-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-costandusagereport/1.11.536/46b90af6e06d086d851db0672997982e0818ff25/aws-java-sdk-costandusagereport-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-costandusagereport/1.11.536/db27e599fb1d285a666d80c18431dc95bb19f563/aws-java-sdk-costandusagereport-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codebuild/1.11.536/13fedecf926cb797da80d7c1893a81fc85fa977/aws-java-sdk-codebuild-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-codebuild/1.11.536/b82f5101ee712a98cfe4d04c57e5b9e9dc74dae9/aws-java-sdk-codebuild-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appstream/1.11.536/f5dddde9acdfb41e49dcb735066953459d3cfb/aws-java-sdk-appstream-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-appstream/1.11.536/6fb0e7c247d9fe922cfc98c738ad384374a09087/aws-java-sdk-appstream-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-shield/1.11.536/c5d578763096b83f3e27577414dbfea43afe8242/aws-java-sdk-shield-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-shield/1.11.536/73bbe5bfbf40e8ab55e1f783755d17c4641b6884/aws-java-sdk-shield-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-batch/1.11.536/b7ea67659733d093092935a935bd5f9ca59d8151/aws-java-sdk-batch-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-batch/1.11.536/e0bc75901881544a29482540ebb163bf1e207b92/aws-java-sdk-batch-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lex/1.11.536/5bdda81a2ab907778d2f6efb1b0174aeb4dc717c/aws-java-sdk-lex-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lex/1.11.536/4e2ab89bd79f0e3d48f7cc96bfb67b2f949b5726/aws-java-sdk-lex-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mechanicalturkrequester/1.11.536/c1282354b28e8faa1939fc231b5d9f4fc8d7536a/aws-java-sdk-mechanicalturkrequester-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mechanicalturkrequester/1.11.536/881d64ac6affca2cb9875092e0859c0243ca3bee/aws-java-sdk-mechanicalturkrequester-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-organizations/1.11.536/80b00b9ba02dcb899559818998e64d6cba51bda5/aws-java-sdk-organizations-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-organizations/1.11.536/1f02142a0bf20b1c02213b13ce7925e7a9486757/aws-java-sdk-organizations-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-workdocs/1.11.536/87b15bd2bf51a4b468d4486466fdbcc626e1ac28/aws-java-sdk-workdocs-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-workdocs/1.11.536/d7f93ea89344887090b89344c6a2330c3a0cb918/aws-java-sdk-workdocs-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.536/a7d126e7881ee09219bb2b8374ce88cf599ce3cd/aws-java-sdk-core-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.536/b37e1d9fc4682e9396d71846aa59c16a89142e35/aws-java-sdk-core-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-models/1.11.536/87b6987e8d3ee46b428bc2166de9fe38f196ddbb/aws-java-sdk-models-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-models/1.11.536/12c7f6ea99ae7f09a20bebcfa177f5e790b83e96/aws-java-sdk-models-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.536/808330386aa4a64b4061c7e5018967cfac17e60c/jmespath-java-1.11.536.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.536/363fc7cdd2d11da6002560c418a3eb95f07fdde9/jmespath-java-1.11.536-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.17.Final/251d7edcb897122b9b23f24ff793cd0739056b9e/netty-codec-http-4.1.17.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.17.Final/827fcc22f3b31a9d64a48c8ae608f0af49aaa24c/netty-codec-http-4.1.17.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.17.Final/18c40ffb61a1d1979eca024087070762fdc4664a/netty-handler-4.1.17.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.17.Final/50f8515931a3187fe2ca22015d08fb4e926be3cd/netty-handler-4.1.17.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/1603dfd56ebcd583ccdf337b6c3984ac55d89e58/httpclient-4.5.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/9fd59f6f22326a4241f9524fdfd66a1f34824054/httpclient-4.5.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.ion/ion-java/1.0.2/ee9dacea7726e495f8352b81c12c23834ffbc564/ion-java-1.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.ion/ion-java/1.0.2/3077203a7e79dd126a480da0491ec60238bbb872/ion-java-1.0.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.7.2/7e405a7ea9aa34c8477c10e1ccc023d931e1d76d/jackson-databind-2.6.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.7.2/c5dbcf3b1379b0540c5b1b3205301a3092353fa8/jackson-databind-2.6.7.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/2.6.7/ba9e74b11135b18248e960df657a2b86ae77a079/jackson-dataformat-cbor-2.6.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/2.6.7/6d66bfcb6c02f68161190ebc98407ac17ce47bb2/jackson-dataformat-cbor-2.6.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.8.1/f5bfc718c95a7b1d3c371bb02a188a4df18361a9/joda-time-2.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.8.1/bf0996237b66ce00cd3132af179612df02ff9771/joda-time-2.8.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.17.Final/1d00f56dc9e55203a4bde5aae3d0828fdeb818e7/netty-codec-4.1.17.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.17.Final/64eb170acc8b7a531c19880c7c5ffd2afea667f5/netty-codec-4.1.17.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.17.Final/9585776b0a8153182412b5d5366061ff486914c1/netty-transport-4.1.17.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.17.Final/6cfb39606eadc486088d7dbb52d30761130ecf0f/netty-transport-4.1.17.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.17.Final/fdd68fb3defd7059a7392b9395ee941ef9bacc25/netty-buffer-4.1.17.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.17.Final/633ebd1faef6f3339f44c9d2e1f9afdb0f6e7fb5/netty-buffer-4.1.17.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/a86ce739e5a7175b4b234c290a00a5fdb80957a0/httpcore-4.4.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/5808b4637c385d939e901eee3dc5f1121fc73a3b/httpcore-4.4.9-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/a0990e2e812ac6639b6ce955c91b13228500476e/jackson-annotations-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/7bcb615d523d88acbc121c92aafeba8d37a83792/jackson-annotations-2.6.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.7/81838e08d5e10e33cdee7299f9682d836b78c63e/jackson-core-2.6.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.7/3f689e85593aeb1e8d75dcc4218245aca279d51b/jackson-core-2.6.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.17.Final/8f386c80821e200f542da282ae1d3cde5cad8368/netty-resolver-4.1.17.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.17.Final/a411150fccb88ab5438f54b2d185467908c5960/netty-resolver-4.1.17.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.17.Final/581c8ee239e4dc0976c2405d155f475538325098/netty-common-4.1.17.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.17.Final/f9afaf668bb7bed1847ead0c5e45395d88c33c78/netty-common-4.1.17.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
